@@ -19,3 +19,7 @@ models:
             tests:
                 - unique
                 - not_null
+sources:
+  - name: "dbt_bilalshahid12"
+    tables:
+      - name: "staging_table"
